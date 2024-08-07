@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VisualStudio\\My_Shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C637BAC-BA09-4953-8CD9-3C1A4C08F301}|MyShop\\MyShop.csproj|d:\\visualstudio\\my_shop\\myshop\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C637BAC-BA09-4953-8CD9-3C1A4C08F301}|MyShop\\MyShop.csproj|solutionrelative:myshop\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C637BAC-BA09-4953-8CD9-3C1A4C08F301}|MyShop\\MyShop.csproj|d:\\visualstudio\\my_shop\\myshop\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C637BAC-BA09-4953-8CD9-3C1A4C08F301}|MyShop\\MyShop.csproj|solutionrelative:myshop\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C637BAC-BA09-4953-8CD9-3C1A4C08F301}|MyShop\\MyShop.csproj|d:\\visualstudio\\my_shop\\myshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C637BAC-BA09-4953-8CD9-3C1A4C08F301}|MyShop\\MyShop.csproj|solutionrelative:myshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C637BAC-BA09-4953-8CD9-3C1A4C08F301}|MyShop\\MyShop.csproj|d:\\visualstudio\\my_shop\\myshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C637BAC-BA09-4953-8CD9-3C1A4C08F301}|MyShop\\MyShop.csproj|solutionrelative:myshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\My_Shop\\MyShop\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "MyShop\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\VisualStudio\\My_Shop\\MyShop\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "MyShop\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wBEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T13:34:10.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\My_Shop\\MyShop\\Program.cs",
+              "RelativeDocumentMoniker": "MyShop\\Program.cs",
+              "ToolTip": "D:\\VisualStudio\\My_Shop\\MyShop\\Program.cs",
+              "RelativeToolTip": "MyShop\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:06:36.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\VisualStudio\\My_Shop\\MyShop\\appsettings.json",
+              "RelativeDocumentMoniker": "MyShop\\appsettings.json",
+              "ToolTip": "D:\\VisualStudio\\My_Shop\\MyShop\\appsettings.json",
+              "RelativeToolTip": "MyShop\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-05T14:57:37.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\My_Shop\\MyShop\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MyShop\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\VisualStudio\\My_Shop\\MyShop\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MyShop\\Controllers\\UserController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAD4vz0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:54:54.717Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
